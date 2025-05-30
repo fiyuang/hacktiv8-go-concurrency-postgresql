@@ -1,4 +1,4 @@
-module hacktiv-go-postgres
+module hacktiv8-go-concurrency-postgresql
 
 go 1.23.2
 
